@@ -3,42 +3,12 @@
     <title>Introvertiert-und-Glücklich</title>
     <link href="https://IuG2021.github.io/feed.xml" rel="self" />
     <link href="https://IuG2021.github.io" />
-    <updated>2020-12-26T00:34:55+01:00</updated>
+    <updated>2021-01-18T00:58:20+01:00</updated>
     <author>
         <name>Björn Schumacher</name>
     </author>
     <id>https://IuG2021.github.io</id>
 
-    <entry>
-        <title>Wie mit dem medialen Dauerfeuer umgehen?</title>
-        <author>
-            <name>Björn Schumacher</name>
-        </author>
-        <link href="https://IuG2021.github.io/wie-mit-dem-medialen-dauerfeuer-umgehen/"/>
-        <id>https://IuG2021.github.io/wie-mit-dem-medialen-dauerfeuer-umgehen/</id>
-
-        <updated>2020-12-26T00:34:55+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Egal ob wir im Radio, TV, der Zeitung oder Online unsere Nachrichten konsumieren: ÜBERALL Corona. Im Stil des Horserace-Journalismus&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Egal ob wir im Radio, TV, der Zeitung oder Online unsere Nachrichten konsumieren: ÜBERALL Corona. Im Stil des Horserace-Journalismus werden immer neue Horrormeldungen und politische Sprechblasen über den Äther gesendet.</p>
-<p>Vorher war es Griechenland, Euro-Rettung, Trump oder  Flüchtlinge. Immer wieder verengt sich die mediale Berichterstattung über lange Strecken auf nur ein Thema, dass bis ins Infantile hochgejazzed werden.</p>
-<p>Ähnlich einem Zauberer der einen Trick durchführt, und dabei seine Zuschauer mit den Händen fesselt, während um ihn herum viele dinge auf,in und an der Bühne passieren, werden die Zuschauer manipuliert und abgelenkt vom offensichtlichen.</p>
-<p>Die Coronakrise lenkt unheimlich gut ab davon, dass der Euro seit 2008 eine Schieflage hat, die seitdem "weggedruckt" wird mit frischem Geld, das in den Händen der "Reichen" (wenig differenzierter Sammelbegriff) landet und so die Preise von Anlagewerten nach oben drückt.</p>
-<p>Diese Blasenbildung sorgt dafür, dass immer mehr Menschen von Obdachlosigkeit und Armut bedroht sind. Zeitgleich wird der Lebensraum knapp, da wir immer noch undifferenziert "Flüchtlinge" (so viele ex-muslime und homosexuelle und politische verfolgte Menschen kann es nicht mehr geben die ein neues Zuhause suchen). Die restlichen Themen muss ich, denke ich mal, nicht weiter anführen. </p>
-<p>Folgende Lösungsvorschläge kommen mir in den Kopf:</p>
-<p> </p>
-<p>1) Medial abkapseln vom Rest</p>
-<p>Man entledigt sich seines Fernsehers, Radios und Smartphones. Man zieht sich zurück aus der Gesellschaft und fängt wieder an, Bücher zu lesen. Man setzt sich sinngemäß Scheuklappen auf, ignoriert das Weltgeschehen.</p>
-<p> </p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Sind Introvertierte gefühlskalt?</title>
         <author>
@@ -46,8 +16,9 @@
         </author>
         <link href="https://IuG2021.github.io/sind-introvertierte-gefuehlskalt/"/>
         <id>https://IuG2021.github.io/sind-introvertierte-gefuehlskalt/</id>
+            <category term="Meine Gedanken"/>
 
-        <updated>2020-11-09T00:32:31+01:00</updated>
+        <updated>2021-01-05T19:38:15+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://IuG2021.github.io/media/posts/17/ice-landscape-4444973.jpg" alt="" />
@@ -72,8 +43,9 @@
         </author>
         <link href="https://IuG2021.github.io/sind-wir-frei/"/>
         <id>https://IuG2021.github.io/sind-wir-frei/</id>
+            <category term="Meine Gedanken"/>
 
-        <updated>2020-12-07T11:50:28+01:00</updated>
+        <updated>2021-01-18T00:58:20+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://IuG2021.github.io/media/posts/15/freedom-4025802_1920.jpg" alt="" />
